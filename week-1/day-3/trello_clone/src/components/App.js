@@ -12,7 +12,6 @@ const ListContainer = styled.div`
   align-items: flex-start;
   border-radius: 3px;
   padding: 8px;
-  // width: 1px;
 `;
 
 class App extends Component {
